@@ -1,0 +1,8 @@
+Application-Name: billdesk.eba
+x-Raptor-TopLevelApp: com.ebay.app.raptor.billdesk
+Application-SymbolicName: billdesk.eba
+Application-ManifestVersion: 1.0
+Application-Version: 1.0.0.qualifier
+Application-Content: com.ebay.app.raptor.billdesk
+Manifest-Version: 1.0
+
